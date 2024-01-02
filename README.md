@@ -1,11 +1,13 @@
-# {PROJECT NAME}
+# Process Mining with EMAS ( East Midlands Ambulance Service ).
 ## NHS England Digitial Analytics and Research Team - PhD Internship Project
 
 ### About the Project
 
 [![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
 
-This repository holds code for the {PROJECT NAME} {SHORT DESCRIPTION}
+This repository holds code for the Process Mining with EMAS project. 
+This project was undertaken in collaboration with East Midlands Ambulance Service Data, and built within their IG area using their data. 
+The data within this repo is fake data, generated from the fake data generator workbook. It resembles EMAS data in form, but is completely fake.
 
 [Link to original project propsoal](https://nhsx.github.io/nhsx-internship-projects/)
 
