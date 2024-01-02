@@ -1,0 +1,134 @@
+﻿postcode,eastings,northings,latitude,longitude,town,region,country,country_string
+DE1,435300,336000,52.91994,-1.47492,,Derby,ENG,England
+DE11,430100,319700,52.77372,-1.55377,Swadlincote,Derbyshire,ENG,England
+DE12,430200,314300,52.72516,-1.55279,Overseal,Derbyshire,ENG,England
+DE21,438200,337500,52.93322,-1.43161,,Derby,ENG,England
+DE22,433900,337500,52.93351,-1.49559,,Derby,ENG,England
+DE23,434000,333900,52.90114,-1.49448,,Derby,ENG,England
+DE24,436900,332700,52.89016,-1.4515,,Derby,ENG,England
+DE3,430900,334700,52.90852,-1.54049,Mickleover,Derby,ENG,England
+DE4,429200,359000,53.12707,-1.56357,Matlock Bath,Derbyshire,ENG,England
+DE45,421600,368700,53.21464,-1.6765,Bakewell,Derbyshire,ENG,England
+DE5,440100,349900,53.04456,-1.4018,Ripley,Derbyshire,ENG,England
+DE55,442100,356200,53.10104,-1.37114,Alfreton,Derbyshire,ENG,England
+DE56,435300,347300,53.02152,-1.47369,Belper,Derbyshire,ENG,England
+DE6,419000,344100,52.99358,-1.7169,Osmaston,Derbyshire,ENG,England
+DE65,426300,330000,52.86651,-1.60927,Hilton,Derbyshire,ENG,England
+DE7,445600,341900,52.9722,-1.32089,Ilkeston,Derbyshire,ENG,England
+DE72,443100,333100,52.8933,-1.35929,Draycott,Derbyshire,ENG,England
+DE73,438000,327900,52.84694,-1.43571,Swarkestone,Derbyshire,ENG,England
+DE75,443400,346400,53.01284,-1.35305,Heanor,Derbyshire,ENG,England
+DN10,470200,392800,53.42705,-0.94339,Everton,Nottinghamshire,ENG,England
+DN15,489300,414000,53.61469,-0.64994,,North Lincolnshire,ENG,England
+DN16,490100,408800,53.56782,-0.63935,,North Lincolnshire,ENG,England
+DN17,486000,409200,53.5721,-0.70114,Burringham,North Lincolnshire,ENG,England
+DN18,502600,421600,53.68055,-0.44643,Barton-Upon-Humber,North Lincolnshire,ENG,England
+DN19,508400,422100,53.68387,-0.35847,Barrow-Upon-Humber,North Lincolnshire,ENG,England
+DN20,499000,407800,53.55723,-0.50531,Broughton,North Lincolnshire,ENG,England
+DN21,486300,392200,53.41927,-0.70129,Corringham,Lincolnshire,ENG,England
+DN22,471500,381300,53.32352,-0.92643,Clumber and Hardwick,Nottinghamshire,ENG,England
+DN31,526700,409900,53.57014,-0.08648,,North East Lincolnshire,ENG,England
+DN32,527900,409100,53.56266,-0.06869,,North East Lincolnshire,ENG,England
+DN33,526100,406500,53.53974,-0.09691,,North East Lincolnshire,ENG,England
+DN34,525100,408400,53.55705,-0.11123,,North East Lincolnshire,ENG,England
+DN35,530100,408300,53.55494,-0.03583,Cleethorpes,North East Lincolnshire,ENG,England
+DN36,530200,403400,53.51089,-0.03636,Tetney,Lincolnshire,ENG,England
+DN37,523600,406500,53.54033,-0.13461,Bradley,North East Lincolnshire,ENG,England
+DN38,506500,408400,53.56115,-0.39192,Bigby,Lincolnshire,ENG,England
+DN39,510200,414700,53.617,-0.33385,Ulceby,North Lincolnshire,ENG,England
+DN40,517500,415300,53.6208,-0.22331,Immingham,North East Lincolnshire,ENG,England
+DN41,519500,411200,53.58351,-0.19466,Stallingborough,North East Lincolnshire,ENG,England
+DN9,473400,401700,53.50661,-0.89316,Haxey,North Lincolnshire,ENG,England
+LE15,487900,307300,52.65594,-0.70037,Hambleton,Rutland,ENG,England
+LE16,475200,288200,52.48616,-0.89244,Dingley,Northamptonshire,ENG,England
+LN1,494300,374500,53.25883,-0.58621,Burton,Lincolnshire,ENG,England
+LN10,519200,363900,53.15858,-0.21703,Woodhall Spa,Lincolnshire,ENG,England
+LN11,534700,388200,53.3732,0.02496,Louth,Lincolnshire,ENG,England
+LN12,550900,383800,53.3293,0.2662,Mablethorpe,Lincolnshire,ENG,England
+LN13,545700,376500,53.26518,0.18482,Alford,Lincolnshire,ENG,England
+LN2,499500,374100,53.25429,-0.5084,Nettleham,Lincolnshire,ENG,England
+LN3,505500,373000,53.24325,-0.41885,Fiskerton,Lincolnshire,ENG,England
+LN4,508000,362700,53.15018,-0.38489,Dunston,Lincolnshire,ENG,England
+LN5,496500,364800,53.17126,-0.55617,Waddington,Lincolnshire,ENG,England
+LN6,493900,368300,53.20319,-0.59403,Lincoln,Lincolnshire,ENG,England
+LN7,509900,400800,53.49216,-0.34327,Caistor,Lincolnshire,ENG,England
+LN8,511500,387600,53.37321,-0.32384,Linwood,Lincolnshire,ENG,England
+LN9,526100,370600,53.21719,-0.11124,Horncastle,Lincolnshire,ENG,England
+MK19,478700,242200,52.07215,-0.85164,Cosgrove,Northamptonshire,ENG,England
+NG1,457300,340000,52.954,-1.147,,Nottingham,ENG,England
+NG10,448300,333900,52.90005,-1.28187,Ilkeston,Derbyshire,ENG,England
+NG11,455600,333900,52.89934,-1.17335,Clifton,Nottingham,ENG,England
+NG12,463600,335300,52.91104,-1.05415,Cotgrave,Nottinghamshire,ENG,England
+NG13,472500,339500,52.94767,-0.92087,Bingham,Nottinghamshire,ENG,England
+NG14,464600,346900,53.01519,-1.03696,Lowdham,Nottinghamshire,ENG,England
+NG15,453400,350100,53.04519,-1.20338,Sutton in Ashfield,Nottinghamshire,ENG,England
+NG16,447400,348000,53.02688,-1.29319,Greasley,Nottinghamshire,ENG,England
+NG17,449500,357900,53.11569,-1.26035,Sutton in Ashfield,Nottinghamshire,ENG,England
+NG18,454600,360400,53.13766,-1.18373,Mansfield,Nottinghamshire,ENG,England
+NG19,453700,362800,53.15933,-1.19678,Mansfield,Nottinghamshire,ENG,England
+NG2,458400,337900,52.935,-1.131,West Bridgford,Nottinghamshire,ENG,England
+NG20,454500,368400,53.20958,-1.18386,Warsop,Nottinghamshire,ENG,England
+NG21,459900,360800,53.14069,-1.10443,Rainworth,Nottinghamshire,ENG,England
+NG22,468800,365100,53.17826,-0.97046,Ompton,Nottinghamshire,ENG,England
+NG23,480300,358300,53.11553,-0.80012,North Muskham,Nottinghamshire,ENG,England
+NG24,480500,353200,53.06966,-0.79841,Newark-on-Trent,Nottinghamshire,ENG,England
+NG25,470000,353400,53.07294,-0.95506,Southwell,Nottinghamshire,ENG,England
+NG3,458500,341500,52.96735,-1.12887,,Nottingham,ENG,England
+NG31,491500,336100,52.9142,-0.6391,Grantham,Lincolnshire,ENG,England
+NG32,490700,340000,52.94939,-0.64991,Great Gonerby,Lincolnshire,ENG,England
+NG33,495800,325500,52.81819,-0.57829,Burton Coggles,Lincolnshire,ENG,England
+NG34,508000,344600,52.98753,-0.39096,Sleaford,Lincolnshire,ENG,England
+NG4,461400,341900,52.97062,-1.08561,Carlton,Nottinghamshire,ENG,England
+NG5,457500,344800,52.99713,-1.14317,,Nottingham,ENG,England
+NG6,454300,344800,52.99746,-1.19085,,Nottingham,ENG,England
+NG7,455400,340400,52.95779,-1.17521,,Nottingham,ENG,England
+NG8,452900,341100,52.96434,-1.21231,,Nottingham,ENG,England
+NG9,451400,336800,52.92583,-1.23533,Beeston,Nottinghamshire,ENG,England
+NN1,476000,261000,52.24154,-0.88682,Northampton,Northamptonshire,ENG,England
+NN10,495700,266900,52.2915,-0.59668,Rushden,Northamptonshire,ENG,England
+NN11,456100,260600,52.24033,-1.17833,Badby,Northamptonshire,ENG,England
+NN12,468600,248200,52.12744,-0.99778,Towcester,Northamptonshire,ENG,England
+NN13,458500,237500,52.0324,-1.14715,Brackley,Northamptonshire,ENG,England
+NN14,489000,279900,52.40948,-0.69145,Warkton,Northamptonshire,ENG,England
+NN15,488100,277100,52.38446,-0.70542,Kettering,Northamptonshire,ENG,England
+NN16,487000,279400,52.40531,-0.72098,Kettering,Northamptonshire,ENG,England
+NN17,489000,290000,52.50026,-0.68876,Corby,Northamptonshire,ENG,England
+NN18,487300,287700,52.47986,-0.7144,Corby,Northamptonshire,ENG,England
+NN2,475400,263300,52.2623,-0.89509,Northampton,Northamptonshire,ENG,England
+NN29,491200,263300,52.2599,-0.66362,Wollaston,Northamptonshire,ENG,England
+NN3,478800,263300,52.26182,-0.84528,Northampton,Northamptonshire,ENG,England
+NN4,475400,258200,52.21645,-0.89623,Northampton,Northamptonshire,ENG,England
+NN5,473100,261600,52.24732,-0.92916,Duston,Northamptonshire,ENG,England
+NN6,472000,269900,52.32208,-0.9435,Spratton,Northamptonshire,ENG,England
+NN7,473300,257400,52.20954,-0.92714,Northampton,Northamptonshire,ENG,England
+NN8,488800,268000,52.30254,-0.69754,Wellingborough,Northamptonshire,ENG,England
+NN9,495500,271500,52.33288,-0.59831,Irthlingborough,Northamptonshire,ENG,England
+OX17,448700,241900,52.07291,-1.28938,Middleton Cheney,Northamptonshire,ENG,England
+PE10,509500,321200,52.77693,-0.3765,Bourne,Lincolnshire,ENG,England
+PE11,523600,324900,52.80714,-0.16616,Pinchbeck,Lincolnshire,ENG,England
+PE12,536800,322600,52.78328,0.0286,Fleet,Lincolnshire,ENG,England
+PE20,527600,338900,52.932,-0.10136,Swineshead,Lincolnshire,ENG,England
+PE21,532800,343800,52.97477,-0.02203,Boston,Lincolnshire,ENG,England
+PE22,537100,352100,53.04826,0.0455,Old Leake,Lincolnshire,ENG,England
+PE23,539800,366000,53.17244,0.09181,Spilsby,Lincolnshire,ENG,England
+PE24,551600,365600,53.16561,0.26804,Burgh Le Marsh,Lincolnshire,ENG,England
+PE25,556200,364300,53.15261,0.33616,Skegness,Lincolnshire,ENG,England
+PE6,518000,307900,52.65562,-0.25531,Deeping St James,Lincolnshire,ENG,England
+PE8,505700,293300,52.52694,-0.44176,Tansor,Northamptonshire,ENG,England
+PE9,502800,307400,52.65422,-0.48012,Stamford,Lincolnshire,ENG,England
+S18,435200,378200,53.29931,-1.47178,Dronfield,Derbyshire,ENG,England
+S21,444100,379700,53.31213,-1.33802,Eckington,Derbyshire,ENG,England
+S32,424100,377600,53.29454,-1.63839,Grindleford,Derbyshire,ENG,England
+S33,418600,382800,53.3415,-1.72061,Aston,Derbyshire,ENG,England
+S40,437000,370900,53.23356,-1.44562,Chesterfield,Derbyshire,ENG,England
+S41,438200,372400,53.24696,-1.42746,Chesterfield,Derbyshire,ENG,England
+S42,438600,367200,53.20019,-1.42209,Wingerworth,Derbyshire,ENG,England
+S43,443900,374700,53.2672,-1.34172,Staveley,Derbyshire,ENG,England
+S44,445900,370000,53.22478,-1.31241,Bolsover,Derbyshire,ENG,England
+S45,438700,363400,53.16602,-1.42106,Clay Cross,Derbyshire,ENG,England
+S80,456700,377600,53.29205,-1.14928,Clumber and Hardwick,Nottinghamshire,ENG,England
+S81,458500,382700,53.3377,-1.12134,Carlton in Lindrick,Nottinghamshire,ENG,England
+SK13,402400,394600,53.4479,-1.96386,Glossop,Derbyshire,ENG,England
+SK17,408100,371900,53.24378,-1.87861,King Sterndale,Derbyshire,ENG,England
+SK22,401000,386200,53.3724,-1.98497,New Mills,Derbyshire,ENG,England
+SK23,403400,381200,53.32744,-1.94895,Chapel-en-le-Frith,Derbyshire,ENG,England
