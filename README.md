@@ -27,7 +27,7 @@ Subject matter experts at EMAS were able to help with the business rules, and wi
 We then began identifying the DFGs (Directly Follows Graphs) for the highest occuring processes. The top two occuring processes accounting for 99% of the Job Cycle traces. 
 Conformance techniques were used to measure how well the mined process models fitted the event log data. However, the variation in the treatment activites also casued the mined models to allow events including the call for an ambulance to happen in a sequence counterintuitive to real ambulance job cycles. 
 
-A succession of further process mining techniques were then applied to the data. A majority of these involved enriching the data, the iterative process around adding data to the event log to find out more about it. This is especially important with event logs where two processes account for such a high percentage of cases, 99%. With Ambulance service being temporal, of the seven processes in the DFG, all had to happen sequentially. The enrichment of the data, adding in IMD data, but also adding back in some of the original patient level data, allowed for patterns, differences in means, and other explorations of data to take place. 
+A succession of further process mining techniques were then applied to the data. A majority of these involved enriching the data, the iterative process around adding data to the event log to find out more about it. This is especially important with event logs where two processes account for such a high percentage of cases, 99%. With Ambulance service being temporal, of the seven processes in the DFG, all had to happen sequentially. The enrichment of the data, adding in IMD data, but also adding back in some of the original patient level data, allowed for patterns, differences in means, and other explorations of data to take place. Enrichment here meant attaching IMD information to postcodes or areas in the data. It also meant retrieving additional data about each patient, for example, age, sex, ethnicity, and adding that back into the event log alongside the respective ids. The outputs here were analysed to investigate for any patterns within the data. This type of analysis was repeated, and time examined, to see if there were any differences in times of treatment, and across the spectrum of the the events in the job cycle. Boxplots were used to check the distribution against means for each of these enriched variables. Enrichment also meant feature engineering. Transforming variables into either binary, or time of day into categorical, e.g. to morning, afternoon and night. 
 
 Lastly machine learning was applied to see if outcomes could be predicted. Please see the report for full details. 
 
@@ -37,7 +37,7 @@ _**Note:** Only public or fake data are shared in this repository._
 #### Project Stucture
 
 - The main code is found in the root of the repository (see Usage below for more information)
-- The workbooks are set up and numbered sequentially. We would suggest running through them in this order. 
+- The notebooks are set up and numbered sequentially. We would suggest running through them in this order. 
 - The accompanying [report](./reports/report.pdf) is also available.
 - More information about the code usage can be found in the [model card](./model_card.md)
 - {OTHER REPO STRUCTURE}
@@ -68,24 +68,10 @@ To create a suitable environment:
 - `source _env/bin/activate`
 - `pip install -r requirements.txt`
 
-{ADDITIONAL TECHNICAL SUPPORT AND NEEDS} 
 
-### Usage
-{DESCRIPTION OF CODE}
-
-#### Outputs
-{LIST AND DESCRIPTION OF OUTPUTS}
-
-{NOTES ON REPRODUCIBILITY OF RESULTS}
 
 #### Datasets
-{DESCRIPTION AND LINKS TO DATASETS}
-
-{LINK TO FAKE DATA TO SUPPORT INITAIL CODE RUNS}
-
-### Roadmap
-
-See the {LINK TO REPO ISSUES} for a list of proposed features (and known issues).
+Fake dataset in this repo, generated from notebook 1_fake_data_gen.ipynb
 
 ### Contributing
 
