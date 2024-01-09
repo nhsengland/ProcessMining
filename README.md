@@ -1,7 +1,7 @@
 # Process Mining with EMAS ( East Midlands Ambulance Service ).
 ## NHS England Digitial Analytics and Research Team - PhD Internship Project
 
-### Alex Coles, Paul Carroll, Martina Fonseca June 2023 - Nov 2022
+### Alex Coles, Paul Carroll, Martina Fonseca - June 2023 - Nov 2022
 
 [![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
 
