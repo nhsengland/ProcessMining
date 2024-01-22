@@ -1,5 +1,5 @@
 # Process Mining with East Midlands Ambulance Service (EMAS).
-## NHS England Digitial Analytics and Research Team - PhD Internship Project
+## NHS England Digitial Analytics and Research Team - PhD Internship Project - Alex Coles
 
 ### Alex Coles, Paul Carroll, Martina Fonseca - June 2023 - Nov 2023
 
@@ -44,7 +44,7 @@ _**Note:** Only public or fake data are shared in this repository._
 - {OTHER REPO STRUCTURE}
 - 
 This repository holds code for the Process Mining with EMAS project. 
-This project was undertaken in collaboration with East Midlands Ambulance Service Data, and built within their IG area using their data. 
+This project was undertaken with Alex Coles working in collaboration with East Midlands Ambulance Service Data, and built within their IG area using their data. 
 The data within this repo is fake data, generated from the fake data generator workbook. It resembles EMAS data in form, but is completely fake.
 
 [Link to original project propsoal](https://nhsx.github.io/nhsx-internship-projects/)
